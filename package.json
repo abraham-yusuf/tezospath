@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@taquito/rpc": "^9.0.1",
-    "@taquito/signer": "^9.0.1",
+    "@taquito/signer": "^9.2.0",
     "@taquito/taquito": "^9.0.1",
     "dotenv": "^10.0.0"
   },
